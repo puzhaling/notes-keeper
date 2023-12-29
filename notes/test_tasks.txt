@@ -1,0 +1,7 @@
+#tasks test_tasks |incompleted| 
+
+task0 (+)
+task1 (+)
+task2 (-)
+task3 (-)
+task4 (-)
